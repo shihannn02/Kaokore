@@ -6,4 +6,4 @@ The dataset used in this project is the Kaokore v1.0 version, consisting of 5,55
 
 For more details about the Kaokore dataset, refer to the [original paper](https://arxiv.org/abs/2002.08595).
 
-The Kaokore dataset includes four versions. This project specifically uses v1.0, which balances artistic variety and data consistency.
+The Kaokore dataset includes four versions， while this project specifically uses v1.0.
