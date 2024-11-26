@@ -1,6 +1,6 @@
 ### Kaokaore - CNN Classification Project
 
-This project utilizes Kaokore, a modern Japanese art-inspired facial expression dataset. The primary focus is to build Convolutional Neural Networks (CNNs) to classify \textbf{genders} and \textbf{identities} based on the dataset.
+This project utilizes Kaokore, a modern Japanese art-inspired facial expression dataset. The primary focus is to build Convolutional Neural Networks (CNNs) to classify **genders and **identities based on the dataset.
 
 The dataset used in this project is the Kaokore v1.0 version, consisting of 5,552 images. Kaokore is derived from traditional Japanese artwork and is designed to explore facial expression recognition in historical and artistic contexts.
 
